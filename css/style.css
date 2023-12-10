@@ -261,6 +261,7 @@ figure {
   text-align: left;
   width: 70%;
 }
+
 @media screen and (max-width: 768px) {
   .fh5co-counter .fh5co-text {
     width: 100%;
@@ -327,7 +328,7 @@ figure {
   width: 10%;
   display: block;
   margin-top: 5px;
-  margin: 3%
+  padding: 0.6rem;
 }
 .fh5co-feature .fh5co-icon i {
   color: #17e7a4;
